@@ -19,6 +19,7 @@ let modifyFile3 = (val) => {
 
 // TODO: Kerjakan bacaData
 // gunakan variabel file1, file2, dan file3
+const bacaData = null;
 const dataGenerator = (rawData) => {
 
   if (rawData.message !== undefined) {
